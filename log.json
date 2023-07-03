@@ -1,0 +1,23 @@
+{
+    "backend": "flask",
+    "db_name": "",
+    "db_pass": "",
+    "db_type": "",
+    "db_user": "",
+    "dbms": "0",
+    "description": "generated product",
+    "design": "soft-ui-dashboard",
+    "docker": "0",
+    "err_code": 0,
+    "frontend": "",
+    "heroku": "0",
+    "pattern": "mvc",
+    "pro": "0",
+    "task_id": "5403fd97-e2f7-41ba-85e0-6dd5cbe96af2",
+    "task_info": "Upload Sources [0%] - 319 files",
+    "task_output": "5403fd97-e2f7-41ba-85e0-6dd5cbe96af2.zip",
+    "task_result": "SUCCESS",
+    "task_state": "RUNNING",
+    "task_ts_end": "2023-07-03-17-00-44",
+    "task_ts_start": "2023-07-03-17-00-41"
+}
